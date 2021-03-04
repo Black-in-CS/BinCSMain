@@ -1,3 +1,3 @@
 # BinCSMain
 BinCSMain Webpage Style
-> by [tobaojo.com](Olutoba Ojo)
+> by [Olutoba Ojo](tobaojo.com)
